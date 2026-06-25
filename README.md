@@ -4,9 +4,6 @@ Bachelor of Arts in Accounting | University of Lynchburg
 
 Aspiring Accountant (CPA) & Financial Analyst
 
-Bachelor of Arts in Accounting
-University of Lynchburg | May 2026
-
 This portfolio showcases accounting, financial analysis, Excel, and forecasting projects completed through coursework and independent study.
 
 ## Technical Skills
