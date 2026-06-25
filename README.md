@@ -2,25 +2,27 @@
 
 Bachelor of Arts in Accounting | University of Lynchburg
 
-Welcome to my Accounting Portfolio.
+Aspiring Accountant (CPA) & Financial Analyst
 
-This repository showcases academic and personal projects demonstrating my skills in:
+Bachelor of Arts in Accounting
+University of Lynchburg | May 2026
 
-- Financial Statement Analysis
-- Financial Modeling
-- Microsoft Excel
-- Forecasting
-- Financial Ratios
-- Business Analysis
+This portfolio showcases accounting, financial analysis, Excel, and forecasting projects completed through coursework and independent study.
+
+## Technical Skills
+
+| Accounting | Financial | Excel |
+|------------|-----------|-------|
+| Financial Statement Analysis | Forecasting | PivotTables |
+| Financial Modeling | Budgeting | XLOOKUP |
+| Ratio Analysis | Business Analysis | INDEX/MATCH |
+| GAAP | Financial Reporting | Charts |
+| DuPont Analysis | Variance Analysis | Power Query |
 
 ## Projects
 
-### Financial Statement Analysis
-Analysis of YETI Holdings, Inc., including:
-- Financial statement analysis
-- Ratio analysis
-- DuPont analysis
-- Financial forecasting
-- Business recommendations
+### 📊 [Financial Statement Analysis](Financial-Statement-Analysis)
+
+Professional financial analysis of YETI Holdings including forecasting, financial ratios, DuPont analysis, and strategic recommendations.
 
 *More projects will be added as I continue building my portfolio.*
