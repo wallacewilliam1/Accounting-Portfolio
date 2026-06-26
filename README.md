@@ -22,4 +22,10 @@ This portfolio showcases accounting, financial analysis, Excel, and forecasting 
 
 Professional financial analysis of YETI Holdings including forecasting, financial ratios, DuPont analysis, and strategic recommendations.
 
+### 📈 [Financial Modeling & Forecasting (AAON)](./Financial-Modeling-and-Forecasting-AAON)
+
+Built a dynamic three-year financial model for AAON, Inc. using audited SEC filings. The project includes historical financial statement reconstruction, forecasting assumptions, a three-year forecast, an executive dashboard, and an executive summary.
+
+**Skills:** Financial Modeling • Forecasting • Microsoft Excel • Financial Statement Analysis • Business Analysis
+
 *More projects will be added as I continue building my portfolio.*
