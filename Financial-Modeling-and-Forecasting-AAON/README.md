@@ -38,7 +38,7 @@ This project demonstrates the development of a three-year financial forecasting 
 
 ## Dashboard Preview
 
-[![Dashboard](./Dashboard.png)](./Dashboard.png)
+[![AAON Dashboard](./AAON-Dashboard.jpeg)](./AAON-Dashboard.jpeg)
 
 ---
 
