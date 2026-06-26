@@ -31,15 +31,14 @@ This project demonstrates the development of a three-year financial forecasting 
 
 | Document | Description |
 |----------|-------------|
-| AAON Financial Model.xlsx | Complete Excel financial model with historical statements, assumptions, forecasts, and dashboard |
-| AAON Executive Summary.pdf | One-page summary of the project |
-| Dashboard.png | Dashboard preview |
+| [AAON Financial Model.xlsx](./AAON%20Financial%20Model.xlsx) | Complete Excel financial model with historical statements, assumptions, forecasts, and dashboard. |
+| [AAON Executive Summary.pdf](./AAON%20Executive%20Summary.pdf) | One-page summary of the project. |
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+[![Dashboard](./Dashboard.png)](./Dashboard.png)
 
 ---
 
