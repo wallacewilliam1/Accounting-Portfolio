@@ -18,7 +18,7 @@ This portfolio showcases accounting, financial analysis, Excel, and forecasting 
 
 ## Projects
 
-### 📊 [Financial Statement Analysis](Financial-Statement-Analysis)
+### 📊 [Financial Statement Analysis (YETI)](Financial-Statement-Analysis)
 
 Professional financial analysis of YETI Holdings including forecasting, financial ratios, DuPont analysis, and strategic recommendations.
 
